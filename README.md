@@ -28,3 +28,7 @@ Goal - I want contributors to help me list some favorite pokemon.
 7. Gloom
 8. Weezing
 9. Kabutops
+10. Satoshi
+11. Skitty
+12. Ditto
+13. Gardvoir
